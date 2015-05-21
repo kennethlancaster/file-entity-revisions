@@ -1,0 +1,4 @@
+name = Uploading Taxonomy Paths
+description = Custom paths for uploading documents - based on a taxonomy
+core = 7.x
+dependencies[] = file_entity_revisions
